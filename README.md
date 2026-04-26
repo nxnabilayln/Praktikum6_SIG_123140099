@@ -1,7 +1,7 @@
 # 📌 Praktikum 6 - Spatial Indexing dan Optimasi Query
 **Mata Kuliah: Sistem Informasi Geografis (SIG)**  
-Nama: [Isi Nama Kamu]  
-NIM: [Isi NIM Kamu]
+Nama: Nabila Yuliana
+NIM: 123140099
 
 ---
 
